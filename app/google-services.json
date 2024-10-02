@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154567649032",
+    "project_id": "greenkenya-6bc1b",
+    "storage_bucket": "greenkenya-6bc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154567649032:android:5d0dafb92ea779cd1eaebd",
+        "android_client_info": {
+          "package_name": "com.example.greenkenya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNkC7zgD6AU21Hi_5neXNHCPy6xM008c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
